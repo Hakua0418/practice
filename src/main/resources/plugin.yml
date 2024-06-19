@@ -1,0 +1,8 @@
+name: practice
+version: '${version}'
+main: hakua_server.jp.practice.Practice
+api-version: '1.20'
+
+commands:
+  test:
+
